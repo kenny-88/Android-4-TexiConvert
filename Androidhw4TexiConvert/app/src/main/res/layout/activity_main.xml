@@ -116,7 +116,6 @@
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="45dp"
-        android:layout_marginLeft="45dp"
         android:layout_marginTop="37dp"
         android:ems="10"
         android:inputType="textPersonName"

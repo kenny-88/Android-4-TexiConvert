@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Androidhw4Texi"
+rootProject.name = "Androidhw4TexiConvert"

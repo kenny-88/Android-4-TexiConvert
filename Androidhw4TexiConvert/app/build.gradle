@@ -1,13 +1,11 @@
-plugins {
-    id 'com.android.application'
-}
+apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.androidhw4texi"
+        applicationId "com.example.androidhw4texiconvert"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
